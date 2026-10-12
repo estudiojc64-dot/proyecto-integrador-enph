@@ -1,0 +1,21 @@
+# No publicar credenciales, capturas reales, bibliotecas ni resultados temporales.
+.runtime-test/
+.private/
+config/
+build/
+lib/
+*.enph
+*.tmp
+*.log
+*.env
+.env*
+oracle-test.json
+tokens.properties
+dispositivo.txt
+.idea/
+.vscode/
+nbproject/private/
+*.class
+*.jar
+*.zip
+
